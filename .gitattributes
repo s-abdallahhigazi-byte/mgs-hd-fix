@@ -1,0 +1,8 @@
+# Text file normalization
+*.yml linguist-detectable=false
+
+public/* linguist-vendored
+src/**/*.rs linguist-detectable
+*.png binary
+
+public/**/*.html linguist-vendored
